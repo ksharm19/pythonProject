@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 29 12:29:28 CST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0185-feca-9731-00000abe4a10 
+on database directory /Users/vaibhav/PycharmProjects/pythonProject/venv/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@47c8cefe 
+Loaded from file:/Users/vaibhav/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/vaibhav/PycharmProjects/pythonProject/venv
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

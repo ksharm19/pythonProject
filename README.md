@@ -1,0 +1,1 @@
+This file is to store python code in Git repository for test
